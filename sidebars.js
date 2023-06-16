@@ -143,6 +143,10 @@ const sidebars = {
       type: "doc",
       id: "build/sdk",
     },
+    {
+      type: "doc",
+      id: "build/versions",
+    },
   ],
   nodeSidebar: [
     {
